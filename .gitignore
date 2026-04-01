@@ -1,0 +1,11 @@
+# Ignore datasets folder
+datasets/
+
+# Ignore parquet files
+*.parquet
+
+# Ignore CSV files
+*.csv
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
