@@ -4,7 +4,7 @@
 
 ## 1. Which departments drive the most orders? 
 
-![Alt Text](visuals\departmentVolume.png)
+![Alt Text](visuals/departmentVolume.png)
 
 **Insight**  
 * Produce dominates overall demand with a massive lead over all other departments  
