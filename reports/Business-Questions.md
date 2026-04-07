@@ -19,7 +19,7 @@
 
 ## 2. Which aisles generate the highest customer traffic?  
 
-![Alt Text](visuals\aisleVolume.png)
+![Alt Text](visuals/aisleVolume.png)
 
 **Insight**  
 * Fresh fruits and vegetables aisles attract the highest customer traffic  
@@ -34,7 +34,7 @@
 
 ## 3. What are the most in-demand products?  
 
-![Alt Text](visuals\productVolume.png)
+![Alt Text](visuals/productVolume.png)
 
 **Insight**  
 * Demand is highly concentrated around a few products like bananas and organic items  
@@ -49,7 +49,7 @@
 
 ## 4. How does order volume vary by day of the week?  
 
-![Alt Text](visuals\weeklyTrends.png)
+![Alt Text](visuals/weeklyTrends.png)
 
 **Insight**  
 * Order volume peaks on Sunday and remains high on Monday  
@@ -64,7 +64,7 @@
 
 ## 5. What are peak ordering hours?  
 
-![Alt Text](visuals\hourlyTrends.png)
+![Alt Text](visuals/hourlyTrends.png)
 
 **Insight**  
 * Most orders are placed between 10 AM and 3 PM  
@@ -79,7 +79,7 @@
 
 ## 6. How are customers segmented based on behavior?  
 
-![Alt Text](visuals\customerSegmentation.png)
+![Alt Text](visuals/customerSegmentation.png)
 
 **Insight**  
 * Regular customers form the largest segment of users  
@@ -95,7 +95,7 @@
 
 ## 7. How does customer type affect basket size?  
 
-![Alt Text](visuals\customerBehavior.png)
+![Alt Text](visuals/customerBehavior.png)
 
 **Insight**  
 * Occasional users tend to have larger basket sizes compared to frequent users  
@@ -110,7 +110,7 @@
 
 ## 8. Which departments have the highest reorder rates?  
 
-![Alt Text](visuals\reorderBehavior.png)
+![Alt Text](visuals/reorderBehavior.png)
 
 **Insight**  
 * Dairy, beverages, and produce have the highest reorder rates  
@@ -125,7 +125,7 @@
 
 ## 9. Does cart position impact reorder behavior?  
 
-![Alt Text](visuals\cartPosition.png)
+![Alt Text](visuals/cartPosition.png)
 
 **Insight**  
 * Products added early in the cart have significantly higher reorder probability  
@@ -140,7 +140,7 @@
 
 ## 10. Are popular products always highly reordered?  
 
-![Alt Text](visuals\popularityReorder.png)
+![Alt Text](visuals/popularityReorder.png)
 
 **Insight**  
 * High popularity does not always translate to high reorder rates  
