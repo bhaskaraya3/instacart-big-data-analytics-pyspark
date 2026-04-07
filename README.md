@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes over **30M+ Instacart orders** using **PySpark** to uncover customer behavior, product demand patterns, and actionable business insights.
+This project analyzes over **37M+ Instacart orders** using **PySpark** to uncover customer behavior, product demand patterns, and actionable business insights.
 
 The goal is to simulate **real-world retail decision-making** using data.
 
